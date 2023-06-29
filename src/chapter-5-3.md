@@ -3,11 +3,6 @@ How ChatGPT Can Be Used for Creating an Interactive Museum Experience
 
 In this chapter, we will explore the specifics of ChatGPT and how it can be used for creating an interactive museum experience.
 
-What Is ChatGPT?
-----------------
-
-ChatGPT is an AI-powered chatbot that can simulate conversation with human users. It uses natural language processing (NLP) to process user input and generate responses that are tailored to the individual user's preferences and interests.
-
 How Can ChatGPT Be Used in Museums?
 -----------------------------------
 

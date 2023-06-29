@@ -3,11 +3,6 @@ Features and Capabilities of ChatGPT
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the natural language processing tool that is revolutionizing the way museums interact with visitors.
 
-What is ChatGPT?
-----------------
-
-ChatGPT (Generative Pre-trained Transformer) is an artificial intelligence language model developed by OpenAI. It is capable of understanding and generating human-like responses to natural language input.
-
 Key Features of ChatGPT
 -----------------------
 

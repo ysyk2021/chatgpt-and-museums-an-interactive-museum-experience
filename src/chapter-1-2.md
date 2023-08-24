@@ -1,5 +1,3 @@
-Explanation of Museum Industry and Its Importance
-===============================================================
 
 The museum industry serves an important function in society by providing a space for education, preservation, and appreciation of the world's cultural and natural heritage. Museums showcase collections of art, artifacts, and other objects of historical, scientific, or cultural significance, with the aim of providing visitors with an understanding of the world's natural and cultural heritage through exhibits and programs.
 

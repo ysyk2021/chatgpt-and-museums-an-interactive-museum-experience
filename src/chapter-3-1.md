@@ -1,5 +1,3 @@
-Factors Affecting Museum Industry
-===========================================================================
 
 The museum industry faces numerous challenges that can impact visitor engagement. In this chapter, we will explore some of the factors that contribute to these challenges.
 

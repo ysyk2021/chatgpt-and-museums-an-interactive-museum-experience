@@ -1,5 +1,3 @@
-Potential Advancements in Museum Industry with ChatGPT
-=========================================================================================================
 
 In this chapter, we will explore the potential advancements in the museum industry with ChatGPT and how it can shape the future of museums.
 

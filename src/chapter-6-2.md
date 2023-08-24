@@ -1,5 +1,3 @@
-Best Practices for Using ChatGPT in Enhancing Museum Experiences
-====================================================================================================================
 
 In this chapter, we will explore best practices for using ChatGPT to enhance museum experiences.
 

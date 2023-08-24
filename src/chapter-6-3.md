@@ -1,5 +1,3 @@
-Case Studies of Museums that have Successfully Implemented ChatGPT in their Exhibits
-========================================================================================================================================
 
 In this chapter, we will explore case studies of museums that have successfully implemented ChatGPT in their exhibits and the impact it has had on visitor experience.
 

@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 This book explores the role of ChatGPT in creating an interactive museum experience. ChatGPT is an AI-powered chatbot that can simulate conversation with human users, providing personalized experiences for visitors by tailoring interactions to their preferences and interests.
 

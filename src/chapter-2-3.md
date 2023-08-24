@@ -1,5 +1,3 @@
-Importance of Interactive Experiences for Museum Visitors
-===============================================================================================
 
 In this chapter, we will explore the basics of the museum industry and the importance of interactive experiences for museum visitors.
 

@@ -1,5 +1,3 @@
-Common Challenges Faced by Museums
-============================================================================
 
 The museum industry faces numerous challenges that can impact visitor engagement. In this chapter, we will explore some of the common challenges faced by museums.
 

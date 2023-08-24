@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Museum Industry
-========================================================================================================
 
 The museum industry is constantly evolving as technology advances, and one of the most promising technologies to emerge in recent years is artificial intelligence (AI). Chatbots powered by ChatGPT have emerged as a powerful tool in the museum industry, offering numerous benefits for both visitors and museum staff.
 

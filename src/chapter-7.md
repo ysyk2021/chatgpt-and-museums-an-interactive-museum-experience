@@ -1,5 +1,3 @@
-Chapter 6: Future of Museum Industry with ChatGPT
-=================================================
 
 In this chapter, we will explore the future of the museum industry with ChatGPT, including potential advancements and emerging trends and challenges.
 

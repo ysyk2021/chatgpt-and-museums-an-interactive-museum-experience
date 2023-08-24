@@ -1,5 +1,3 @@
-Chapter 1: Basics of Museum Industry
-====================================
 
 In this chapter, we will explore the basics of the museum industry. We will define what a museum is, examine different types of museums, and discuss the importance of interactive experiences for museum visitors.
 

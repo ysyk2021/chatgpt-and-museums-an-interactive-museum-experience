@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the natural language processing tool that is revolutionizing the way museums interact with visitors.
 

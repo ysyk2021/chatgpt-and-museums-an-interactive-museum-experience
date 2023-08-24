@@ -1,5 +1,3 @@
-How ChatGPT Can Be Used for Creating an Interactive Museum Experience
-=======================================================================================================
 
 In this chapter, we will explore the specifics of ChatGPT and how it can be used for creating an interactive museum experience.
 

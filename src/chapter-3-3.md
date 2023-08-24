@@ -1,5 +1,3 @@
-Impact of These Challenges on Visitor Engagement
-==========================================================================================
 
 The museum industry faces numerous challenges that can impact visitor engagement. In this chapter, we will explore some of these challenges and their impact on the museum experience for visitors.
 

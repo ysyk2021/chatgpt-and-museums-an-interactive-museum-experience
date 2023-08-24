@@ -1,5 +1,3 @@
-How AI and Chatbots can Improve Museum Experiences
-=====================================================================================================
 
 Artificial intelligence (AI) and chatbots have the potential to significantly improve museum experiences for visitors. In this chapter, we will explore the role of AI and chatbots in museums and how they can enhance visitor engagement and satisfaction.
 

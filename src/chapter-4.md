@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Museums
-=================================================
 
 In this chapter, we will explore the role of AI and chatbots in museums and how they can improve museum experiences for visitors.
 

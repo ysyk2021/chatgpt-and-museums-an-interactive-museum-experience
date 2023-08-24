@@ -1,5 +1,3 @@
-Different Types of Museums
-================================================================
 
 There are many different types of museums, each with its own focus and collection. Here are some of the most common types:
 
@@ -29,5 +27,4 @@ Children's Museums
 Children's museums are specifically geared towards younger visitors, with exhibits and activities designed to engage and educate children. They often feature hands-on exhibits and interactive play areas.
 
 Overall, these types of museums serve different purposes and cater to different interests. However, they all share the goal of providing an educational and engaging experience for visitors.
-
 

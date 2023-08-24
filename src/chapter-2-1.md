@@ -1,5 +1,3 @@
-Definition of Museum Industry
-===================================================================
 
 The museum industry is a cultural and educational institution that showcases collections of art, artifacts, and other objects of historical, scientific, or cultural significance. Museums aim to provide visitors with an understanding of the world's natural and cultural heritage through exhibits and programs.
 

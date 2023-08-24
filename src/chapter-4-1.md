@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-==================================================================================
 
 Artificial intelligence (AI) and chatbots are emerging technologies that have the potential to significantly improve museum experiences for visitors. In this chapter, we will provide an introduction to AI and chatbots and explore their potential applications in museums.
 

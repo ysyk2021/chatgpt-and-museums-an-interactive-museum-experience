@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the importance of using ChatGPT for creating an interactive museum experience in the museum industry. Here are some key points to summarize:
 

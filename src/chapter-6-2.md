@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Enhancing Museum Experiences
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

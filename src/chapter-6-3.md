@@ -1,5 +1,4 @@
-Chapter: Case Studies of Museums Successfully Implementing ChatGPT in Their Exhibits
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
